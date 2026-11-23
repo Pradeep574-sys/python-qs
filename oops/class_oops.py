@@ -30,6 +30,8 @@ class Student:
     def demo3(): #--> Static Method 
         pass 
 
+    
+
 
 
 
